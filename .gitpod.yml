@@ -4,7 +4,7 @@ tasks:
       go get github.com/spf13/cobra/cobra
       go build
     command: |
-      ./mycli --help
+      ./forgecli --help
 vscode:
   extensions:
     - golang.go
